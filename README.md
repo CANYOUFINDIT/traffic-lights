@@ -15,8 +15,8 @@
 到 GitHub Releases 下载对应系统的安装包：
 
 - macOS Apple Silicon：`CodexTrafficLightInstaller-macos-arm64.zip`
-- Windows 64 位：`CodexTrafficLightInstaller-windows-amd64.zip`
-- Windows 32 位：`CodexTrafficLightInstaller-windows-386.zip`
+- Windows 64 位：`CodexTrafficLightInstaller-windows-x86_64.zip`
+- Windows 32 位：`CodexTrafficLightInstaller-windows-x86_32.zip`
 
 解压后按压缩包里的中文说明运行安装器，然后在 Codex 中输入 `/hooks` 并信任新的 hook。
 

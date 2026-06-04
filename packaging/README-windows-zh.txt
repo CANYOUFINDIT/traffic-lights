@@ -12,11 +12,11 @@ AI 状态红绿灯安装说明 - Windows
 
 3. 双击运行安装器：
 
-   CodexTrafficLightInstaller-windows-amd64.exe
+   CodexTrafficLightInstaller-windows-x86_64.exe
 
    如果你的电脑是 32 位 Windows，请使用：
 
-   CodexTrafficLightInstaller-windows-386.exe
+   CodexTrafficLightInstaller-windows-x86_32.exe
 
 4. 如果 Windows 安全提示拦截，确认这是你信任的安装器后，选择“仍要运行”。
 
