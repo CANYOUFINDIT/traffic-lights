@@ -1,0 +1,14 @@
+.DS_Store
+
+# Local build outputs
+/codex-traffic-light
+/dist/
+CODEX_HANDOFF_ESP32_C3_TRAFFIC_LIGHT.md
+
+# Python local state
+__pycache__/
+*.py[cod]
+
+# Editor / OS noise
+.idea/
+.vscode/
